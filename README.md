@@ -39,6 +39,10 @@ smoking_alcohol : 喫煙・飲酒
 gender : 性別
 ```
 
+
+* 現在の加工データ : [submit_x_x_x_x_x_x.csv]()
+* メモ : [memo.md]()
+
 # 調査、分析
 
 <details open><summary>調査リスト</summary> 
@@ -65,13 +69,43 @@ gender : 性別
 
 <details open><summary>スコアリスト</summary> 
 
+### **Balanced Accuracy（均衡正解率）**
+
 |バージョン|結果|コンペ結果|備考|
 |-----|-----|-----|-----|
-|test  |  |
+|test  | 0.95011 |0.94639|852位|
 
 </details>
 
 # 環境構築( windows )
+cloneする
+```PowerShell
+git clone https://github.com/kenkenkengo0421/SIGNATECUP2024.git
+
+```
+
+
+
+zip解凍
+```PowerShell
+ Expand-Archive -Path .\data.zip
+```
+
+<br>
+
+解凍後の中身移動
+```PowerShell
+mv .\data\data\* .\data\
+```
+
+<br>
+
+いらんフォルダ消す
+```PowerShell
+rm -r -fo .\data\data
+```
+
+<br>
 
 
 venv構築
