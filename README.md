@@ -40,8 +40,9 @@ gender : 性別
 ```
 
 
-* 現在の加工データ : [submit_x_x_x_x_x_x.csv]()
-* メモ : [memo.md]()
+* 現在の加工データ : [submit_x_x_x_x_x_x.csv](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/submit_x_x_x_x_x_x.csv)
+  
+* メモ : [memo.md](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/memo.md)
 
 # 調査、分析
 
@@ -80,11 +81,11 @@ gender : 性別
 # 環境構築( windows )
 cloneする
 ```PowerShell
-git clone https://github.com/kenkenkengo0421/SIGNATECUP2024.git
+https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk.git
 
 ```
 
-
+<br>
 
 zip解凍
 ```PowerShell
@@ -92,21 +93,6 @@ zip解凍
 ```
 
 <br>
-
-解凍後の中身移動
-```PowerShell
-mv .\data\data\* .\data\
-```
-
-<br>
-
-いらんフォルダ消す
-```PowerShell
-rm -r -fo .\data\data
-```
-
-<br>
-
 
 venv構築
 ```PowerShell
