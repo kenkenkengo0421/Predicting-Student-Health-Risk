@@ -50,7 +50,7 @@ gender : 性別
 
 |名称|URLリンク|
 |-----|-----|
-|睡眠時間|未調査|
+|睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)|
 |心拍数|未調査|
 |BMI|未調査|
 |カロリー消費量|未調査|
@@ -74,7 +74,8 @@ gender : 性別
 
 |バージョン|結果|コンペ結果|備考|
 |-----|-----|-----|-----|
-|test  | 0.95011 |0.94639|852位|
+|v0.0  | 0.95011 | 0.94639 |2026_07_12 852位|
+|v0.1 | 0.95007 | 0.94639 |2026_07_12 960位|
 
 </details>
 
