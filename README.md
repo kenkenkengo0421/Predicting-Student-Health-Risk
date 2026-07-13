@@ -2,13 +2,25 @@
 # [Predicting Student Health Risk](https://www.kaggle.com/competitions/playground-series-s6e7/overview)
 
 # コンペの概要
+
+<details><summary></summary> 
+  
 * **目標** : 学生の健康リスクを予測すること
 * **最終提出期限**：2026年7月31日
 
+</details>
+
 # 評価
+
+<details><summary></summary>
+
 提出された内容は、予測されたクラスと観測されたターゲットとの間の [ balanced_accuracy_score ](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html) に基づいて評価されます
 
+</details>
+
 # 提出ファイル
+
+<details><summary></summary>
 
 テストセット内の各IDについて、health_condition変数にラベル（リスクあり、不健康、健康）を予測する必要があります。ファイルにはヘッダーが含まれ、以下の形式である必要があります。
 ```
@@ -17,9 +29,13 @@ id,health_condition
 690089,at-risk 
 690090,at-risk 
 etc.
-
 ```
+
+</details>
+
 # 特徴
+
+<details><summary></summary>
 
 ```
 id : id
@@ -44,9 +60,11 @@ gender : 性別
   
 * メモ : [memo.md](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/memo.md)
 
+</details>
+
 # 調査、分析
 
-<details open><summary>調査リスト</summary> 
+<details><summary>調査リスト</summary> 
 
 |名称|URLリンク|
 |-----|-----|
@@ -68,7 +86,7 @@ gender : 性別
 
 # スコアの履歴
 
-<details open><summary>スコアリスト</summary> 
+<details><summary>スコアリスト</summary> 
 
 ### **Balanced Accuracy（均衡正解率）**
 
@@ -80,6 +98,9 @@ gender : 性別
 </details>
 
 # 環境構築( windows )
+
+<details><summary></summary>
+
 cloneする
 ```PowerShell
 https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk.git
@@ -118,3 +139,5 @@ nb起動
 ```PowerShell
 jupyter lab
 ```
+
+</details>
