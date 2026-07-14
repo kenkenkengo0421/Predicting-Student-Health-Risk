@@ -68,8 +68,8 @@ gender : 性別
 |名称|URLリンク|備考欄|
 |-----|-----|-----|
 |睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)|睡眠時間が短い（5〜6時間）と不健康な人が多く、しっかり寝ている（7〜8時間）と健康な人が多い|
-|心拍数|未調査||
-|BMI|未調査||
+|心拍数|[heart_rate.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/heart_rate.ipynb)|心拍数はあまり関連性がなさそう|
+|BMI|[bmi.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/bmi.ipynb)|27以降が不健康な傾向にある。19以下は健康、不健康な人がほぼいない。|
 |カロリー消費量|未調査||
 |ステップ数|未調査||
 |運動時間|未調査||
