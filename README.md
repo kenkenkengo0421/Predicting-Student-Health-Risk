@@ -71,7 +71,7 @@ gender : 性別
 |心拍数|[heart_rate.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/heart_rate.ipynb)|心拍数はあまり関連性がなさそう|
 |BMI|[bmi.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/bmi.ipynb)|27以降が不健康な傾向にある。19以下は健康、不健康な人がほぼいない。|
 |カロリー消費量|[calorie_expenditure.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/calorie_expenditure.ipynb)|1400以下は不健康の傾向あり1400kcalは一般的に、運動を含めた1日の摂取カロリーの目安 それ以下の方たちが不健康の傾向あり|
-|ステップ数|未調査||
+|ステップ数|[step_count.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/step_count.ipynb)|水色と赤色（不健康・リスクあり）が 5000より下|
 |運動時間|未調査||
 |水分摂取量|未調査||
 |食事タイプ|未調査||
