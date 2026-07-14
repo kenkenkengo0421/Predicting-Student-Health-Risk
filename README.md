@@ -65,21 +65,21 @@ gender : 性別
 
 <details><summary>調査リスト</summary> 
 
-|名称|URLリンク|
-|-----|-----|
-|睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)|
-|心拍数|未調査|
-|BMI|未調査|
-|カロリー消費量|未調査|
-|ステップ数|未調査|
-|運動時間|未調査|
-|水分摂取量|未調査|
-|食事タイプ|未調査|
-|ストレスレベル|未調査|
-|睡眠の質|未調査|
-|身体活動レベル|未調査|
-|喫煙・飲酒|未調査|
-|性別|未調査|
+|名称|URLリンク|備考欄|
+|-----|-----|-----|
+|睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)||
+|心拍数|未調査||
+|BMI|未調査||
+|カロリー消費量|未調査||
+|ステップ数|未調査||
+|運動時間|未調査||
+|水分摂取量|未調査||
+|食事タイプ|未調査||
+|ストレスレベル|未調査||
+|睡眠の質|未調査||
+|身体活動レベル|未調査||
+|喫煙・飲酒|未調査||
+|性別|未調査||
 
 </details>
 
