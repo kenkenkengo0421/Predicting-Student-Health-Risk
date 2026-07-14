@@ -67,7 +67,7 @@ gender : 性別
 
 |名称|URLリンク|備考欄|
 |-----|-----|-----|
-|睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)||
+|睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)|「睡眠時間が短い（5〜6時間）と不健康な人が多く、しっかり寝ている（7〜8時間）と健康な人が多い」|
 |心拍数|未調査||
 |BMI|未調査||
 |カロリー消費量|未調査||
