@@ -70,7 +70,7 @@ gender : 性別
 |睡眠時間|[sleep_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_duration.ipynb)|睡眠時間が短い（5〜6時間）と不健康な人が多く、しっかり寝ている（7〜8時間）と健康な人が多い|
 |心拍数|[heart_rate.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/heart_rate.ipynb)|心拍数はあまり関連性がなさそう|
 |BMI|[bmi.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/bmi.ipynb)|27以降が不健康な傾向にある。19以下は健康、不健康な人がほぼいない。|
-|カロリー消費量|[calorie_expenditure.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/)|1400以下は不健康の傾向あり1400kcalは一般的に、運動を含めた1日の摂取カロリーの目安 それ以下の方たちが不健康の傾向あり|
+|カロリー消費量|[calorie_expenditure.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/calorie_expenditure.ipynb)|1400以下は不健康の傾向あり1400kcalは一般的に、運動を含めた1日の摂取カロリーの目安 それ以下の方たちが不健康の傾向あり|
 |ステップ数|未調査||
 |運動時間|未調査||
 |水分摂取量|未調査||
