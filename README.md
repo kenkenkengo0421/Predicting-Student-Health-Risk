@@ -103,7 +103,7 @@ gender : 性別
 
 cloneする
 ```PowerShell
-https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk.git
+git clone https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk.git
 
 ```
 
