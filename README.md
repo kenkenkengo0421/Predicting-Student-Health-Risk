@@ -87,7 +87,8 @@ gender : 性別
 
 <details><summary>スコアリスト</summary> 
 
-### **Balanced Accuracy（均衡正解率）**
+### [Balanced Accuracy（均衡正解率）](https://github.com/kenkenkengo0421/learning-math/blob/main/Balanced%20Accuracy/Balanced%20Accuracy.md)
+
 
 |バージョン|結果|コンペ結果|備考|
 |-----|-----|-----|-----|
