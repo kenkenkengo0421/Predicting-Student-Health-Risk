@@ -72,8 +72,8 @@ gender : 性別
 |BMI|[bmi.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/bmi.ipynb)|27以降が不健康な傾向にある。19以下は健康、不健康な人がほぼいない。|
 |カロリー消費量|[calorie_expenditure.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/calorie_expenditure.ipynb)|1400以下は不健康の傾向あり1400kcalは一般的に、運動を含めた1日の摂取カロリーの目安 それ以下の方たちが不健康の傾向あり|
 |ステップ数|[step_count.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/step_count.ipynb)|水色と赤色（不健康・リスクあり）が 5000より下|
-|運動時間|未調査||
-|水分摂取量|未調査||
+|運動時間|[exercise_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_duration.ipynb)|40時間以上運動者は健康的な傾向あり|
+|水分摂取量|[water_intake.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/water_intake.ipynb)|水分摂取量はあまり関連性がなさそう|
 |食事タイプ|未調査||
 |ストレスレベル|未調査||
 |睡眠の質|未調査||
