@@ -63,7 +63,7 @@ gender : 性別
 
 # 調査、分析
 
-<details><summary>調査リスト</summary> 
+
 
 |名称|URLリンク|備考欄|
 |-----|-----|-----|
@@ -81,7 +81,7 @@ gender : 性別
 |喫煙・飲酒|[smoking_alcohol.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/smoking_alcohol.ipynb)|yes：習慣がある（よく吸う・飲む）、no：習慣がない（吸わない・飲まない）、occasional：たまに（時々）吸う・飲む 吸う人、たまに吸う人が不健康の傾向あり|
 |性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
 
-</details>
+
 
 # スコアの履歴
 
