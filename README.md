@@ -75,11 +75,11 @@ gender : 性別
 |運動時間|[exercise_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_duration.ipynb)|40時間以上運動者は健康的な傾向あり|
 |水分摂取量|[water_intake.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/water_intake.ipynb)|水分摂取量はあまり関連性がなさそう|
 |食事タイプ|[diet_type.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/diet_type.ipynb)|野菜中心、バランスの取れた食生活の方が健康的|
-|ストレスレベル|未調査||
-|睡眠の質|未調査||
-|身体活動レベル|未調査||
-|喫煙・飲酒|未調査||
-|性別|未調査||
+|ストレスレベル|[stress_level.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/stress_level.ipynb)|High : 不健康の割合高い、健康の割合がかなり低い、medium : 不健康の割合低い、健康の割合がかなり低い、予備軍高い、low : 不健康の割合低い、健康の割合がかなり高い|
+|睡眠の質|[sleep_quality.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/sleep_quality.ipynb)|average 平均的：　健康的、good 良い ： 不健康的、poor 良くない ：　健康的|
+|身体活動レベル|[physical_activity_level.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/physical_activity_level.ipynb)|sedentary：座りがち、運動量が少ない、moderate：適度な運動量、平均的、active：活発、よく運動する 運動する人でも不健康な方がそれなりにいるが比率は健康が多い|
+|喫煙・飲酒|[smoking_alcohol.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/smoking_alcohol.ipynb)|yes：習慣がある（よく吸う・飲む）、no：習慣がない（吸わない・飲まない）、occasional：たまに（時々）吸う・飲む 吸う人、たまに吸う人が不健康の傾向あり|
+|性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
 
 </details>
 

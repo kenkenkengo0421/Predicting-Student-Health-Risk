@@ -68,8 +68,6 @@ sns_kde(data=<DF>,
         common_norm=<False>,　　　　　　 #よくわからん 
         figsize=(<横大きさ,縦大きさ>),
         step=<区切り>)
-
-
 """
 
 
@@ -101,6 +99,7 @@ class sns_kde:
         max_val = int(plot_df[self.x].max())
         plt.xticks(np.arange(min_val, max_val + 1, self.step))    
         plt.show()
+
 
 """
 文字列の値をカウント(棒グラフ)
