@@ -74,7 +74,7 @@ gender : 性別
 |ステップ数|[step_count.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/step_count.ipynb)|水色と赤色（不健康・リスクあり）が 5000より下|
 |運動時間|[exercise_duration.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_duration.ipynb)|40時間以上運動者は健康的な傾向あり|
 |水分摂取量|[water_intake.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/water_intake.ipynb)|水分摂取量はあまり関連性がなさそう|
-|食事タイプ|未調査||
+|食事タイプ|[diet_type.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/diet_type.ipynb)|野菜中心、バランスの取れた食生活の方が健康的|
 |ストレスレベル|未調査||
 |睡眠の質|未調査||
 |身体活動レベル|未調査||
