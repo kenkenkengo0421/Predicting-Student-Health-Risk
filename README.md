@@ -81,6 +81,7 @@ gender : 性別
 |性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
 |運動の強度|[exercise_strength.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_strength.ipynb)|$$\text{運動強度} = \frac{\text{消費カロリー}}{(\text{運動時間} + 0.1) \times \text{BMI}}$$|
 |健康、不健康スコア|[score.ipynb.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/score.ipynb)|内部参照|
+|ストレス係数:ストレスレベル/睡眠時間|[stress_per_sleep.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/stress_per_sleep.ipynb)|$$ \text{ストレス指数} = \frac{\text{ストレスレベル}}{\text{睡眠時間}} $$|
 
 
 
@@ -98,6 +99,7 @@ gender : 性別
 |v0.1 | 0.95007 | 0.94639 |2026_07_12 960位|
 |v0.2|0.95018|0.94668|2026_07_17 1221位|
 |v0.3|0.95016|0.94844|2026_07_17 1156位|
+|v0.4|0.95032|0.94877|2026_07_18 1135位|
 
 </details>
 
