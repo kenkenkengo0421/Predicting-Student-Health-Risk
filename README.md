@@ -80,7 +80,7 @@ gender : 性別
 |喫煙・飲酒|[smoking_alcohol.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/smoking_alcohol.ipynb)|yes：習慣がある（よく吸う・飲む）、no：習慣がない（吸わない・飲まない）、occasional：たまに（時々）吸う・飲む 吸う人、たまに吸う人が不健康の傾向あり|
 |性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
 |運動の強度|[exercise_strength.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_strength.ipynb)|$$\text{運動強度} = \frac{\text{消費カロリー}}{(\text{運動時間} + 0.1) \times \text{BMI}}$$|
-|健康、不健康スコア|[score.ipynb.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/score.ipynb.ipynb)|内部参照|
+|健康、不健康スコア|[score.ipynb.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/score.ipynb)|内部参照|
 
 
 
