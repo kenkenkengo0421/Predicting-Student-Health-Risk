@@ -1,4 +1,3 @@
-﻿
 # [Predicting Student Health Risk](https://www.kaggle.com/competitions/playground-series-s6e7/overview)
 
 # コンペの概要
@@ -81,6 +80,9 @@ gender : 性別
 |喫煙・飲酒|[smoking_alcohol.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/smoking_alcohol.ipynb)|yes：習慣がある（よく吸う・飲む）、no：習慣がない（吸わない・飲まない）、occasional：たまに（時々）吸う・飲む 吸う人、たまに吸う人が不健康の傾向あり|
 |性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
 |運動の強度|[exercise_strength.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_strength.ipynb)|$$\text{運動強度} = \frac{\text{消費カロリー}}{(\text{運動時間} + 0.1) \times \text{BMI}}$$|
+|健康、不健康スコア|[score.ipynb.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/score.ipynb.ipynb)|内部参照|
+
+
 
 
 # スコアの履歴
@@ -95,6 +97,7 @@ gender : 性別
 |v0.0  | 0.95011 | 0.94639 |2026_07_12 852位|
 |v0.1 | 0.95007 | 0.94639 |2026_07_12 960位|
 |v0.2|0.95018|0.94668|2026_07_17 1221位|
+|v0.3|0.95016|0.94844|2026_07_17 1156位|
 
 </details>
 
