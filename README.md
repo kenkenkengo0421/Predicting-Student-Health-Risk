@@ -80,7 +80,7 @@ gender : 性別
 |身体活動レベル|[physical_activity_level.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/physical_activity_level.ipynb)|sedentary：座りがち、運動量が少ない、moderate：適度な運動量、平均的、active：活発、よく運動する 運動する人でも不健康な方がそれなりにいるが比率は健康が多い|
 |喫煙・飲酒|[smoking_alcohol.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/smoking_alcohol.ipynb)|yes：習慣がある（よく吸う・飲む）、no：習慣がない（吸わない・飲まない）、occasional：たまに（時々）吸う・飲む 吸う人、たまに吸う人が不健康の傾向あり|
 |性別|[gender.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/gender.ipynb)|male：男性の方がやや健康傾向あり、female：女性　不健康傾向あり、other：その他　不健康傾向あり|
-
+|運動の強度|[exercise_strength.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/exercise_strength.ipynb)|$$\text{運動強度} = \frac{\text{消費カロリー}}{(\text{運動時間} + 0.1) \times \text{BMI}}$$|
 
 
 # スコアの履歴
@@ -94,6 +94,7 @@ gender : 性別
 |-----|-----|-----|-----|
 |v0.0  | 0.95011 | 0.94639 |2026_07_12 852位|
 |v0.1 | 0.95007 | 0.94639 |2026_07_12 960位|
+|v0.2|0.95018|0.94668|2026_07_17 1221位|
 
 </details>
 
