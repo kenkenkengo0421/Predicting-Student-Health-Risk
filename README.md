@@ -62,7 +62,7 @@ gender : 性別
 
 # 調査、分析
 
-
+<details><summary>調査リスト</summary> 
 
 |名称|URLリンク|備考欄|
 |-----|-----|-----|
@@ -83,7 +83,7 @@ gender : 性別
 |健康、不健康スコア|[score.ipynb.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/score.ipynb)|内部参照|
 |ストレス係数:ストレスレベル/睡眠時間|[stress_per_sleep.ipynb](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/sub/stress_per_sleep.ipynb)|$$ \text{ストレス指数} = \frac{\text{ストレスレベル}}{\text{睡眠時間}} $$|
 
-
+</details>
 
 
 # スコアの履歴
@@ -102,6 +102,7 @@ gender : 性別
 |v0.4|0.95032|0.94877|2026_07_18 1135位|
 |v0.5|0.95021|0.94916|2026_07_18 1088位|
 |v0.6|0.95036|0.94936|2026_07_18 1032位|
+|v0.7|0.95041|0.94901|2026_07_19 1085位|
 
 </details>
 
