@@ -54,9 +54,6 @@ gender : 性別
 ```
 
 
-* 現在の加工データ : [submit_x_x_x_x_x_x.csv](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/submit_x_x_x_x_x_x.csv)
-  
-* メモ : [memo.md](https://github.com/kenkenkengo0421/Predicting-Student-Health-Risk/blob/main/memo.md)
 
 
 
@@ -108,6 +105,7 @@ gender : 性別
 |v1.0|0.95002|0.94875|2026_07_21 1186位|
 |v1.1|GBM:0.95002,XGB:0.95053<br>アンサンブル|0.94954|2026_07_22 1145位|
 |v1.2|GBM:0.94657,XGB:0.94935<br>アンサンブル|0.94873|2026_07_22 1156位|
+|v1.3|GBM:0.94639,XGB:0.94928<br>アンサンブル|0.94876|2026_07_24 1217位|
 
 </details>
 
